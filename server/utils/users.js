@@ -30,7 +30,13 @@ class Users{
         var nameArray = users.map((user) => user.name );
           
         return nameArray;
-    }   
+    }  
+    
+   
+    
+     
 }
+
+
 
 module.exports = {Users};
